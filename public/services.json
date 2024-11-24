@@ -1,0 +1,121 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/mRg8NZn/istockphoto-157682072-612x612.jpg",
+      "serviceName": "Public Speaking Training",
+      "category": "Presentation Skill",
+      "description": "Presentation skills are crucial for success in academics, the workplace, and beyond. Our Public Speaking Training is designed to equip individuals with the tools and confidence to deliver impactful and engaging presentations in any setting. This training focuses on enhancing your ability to communicate effectively, captivate audiences, and convey your message clearly.Participants will learn the fundamentals of public speaking, including structuring a presentation, using visual aids, mastering body language, and handling audience questions. Special attention is given to overcoming stage fright, building self-confidence, and maintaining audience interest through storytelling, tone variation, and eye contact.Whether you’re preparing for a classroom project, a workplace meeting, or a high-stakes conference, this training will help you polish your delivery and adapt to diverse audiences. Interactive exercises, practice sessions, and constructive feedback ensure you leave with practical skills you can apply immediately.With personalized coaching and real-world insights, this program empowers you to become a confident and persuasive speaker. Transform your ideas into compelling messages, and unlock new opportunities through the power of effective communication. Take the first step toward becoming an outstanding presenter today!",
+      "pricing": 60,
+      "lessons": 10,
+      "duration": "1 hour",
+      "counselor_photo": "https://i.ibb.co.com/yQG1vV8/Ct2.png",
+      "counselor": "Kevin Murray",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/Jn3f1fQ/career-path.jpg",
+      "serviceName": "Career Path Assessment",
+      "category": "Personalized Counseling",
+      "description": "Career path assessment and personalized counseling are essential tools for individuals seeking clarity and direction in their professional journeys. This process involves evaluating an individual's interests, strengths, skills, values, and goals to identify suitable career paths tailored to their unique attributes.The assessment typically includes personality tests, skill evaluations, and interest surveys to provide a comprehensive understanding of the individual's potential and preferences. Based on these insights, personalized counseling offers one-on-one guidance to help individuals explore career options, set achievable goals, and plan their professional development.Personalized counseling focuses on understanding the individual's aspirations, addressing their concerns, and providing actionable strategies to overcome challenges. Whether you're a student deciding on your first career step, a professional considering a change, or someone reentering the workforce, this service empowers you with clarity and confidence.The combination of structured assessments and tailored advice ensures that career decisions align with the individual's passions and abilities, leading to greater satisfaction and success. With expert guidance, individuals can make informed decisions, unlock their potential, and embark on a fulfilling career journey. This service is invaluable for anyone seeking to navigate the complexities of modern career landscapes.",
+      "pricing": 90,
+     "lessons": 10,
+      "duration": "1 hour",
+      "counselor_photo": "https://i.ibb.co.com/JvQ0VCZ/C-t-1-1.png",
+      "counselor": "Nancy Munoz",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/v43S4QR/dream-job-4453054-1280.jpg",
+      "serviceName": "Job Search Strategy",
+      "category": "Career Advancement",
+      "description": "A well-planned job search strategy is vital for achieving career advancement in today’s competitive job market. This approach involves creating a personalized plan to identify opportunities that align with your skills, experience, and career aspirations while positioning you as a strong candidate.Effective job search strategies start with understanding your career goals and conducting a self-assessment of your strengths, achievements, and areas for growth. Crafting a professional resume and cover letter tailored to your target roles is a critical step. Additionally, building a strong online presence, especially on platforms like LinkedIn, can help you network and showcase your expertise to potential employers.Strategic networking plays a key role in career advancement. Engaging with professional associations, attending industry events, and reaching out to mentors can open doors to hidden opportunities. Leveraging job boards, company websites, and recruitment agencies further broadens your reach.To stand out, it's crucial to prepare for interviews by researching the company, practicing common questions, and demonstrating how your skills align with the organization's needs. Staying persistent, adaptable, and focused ensures long-term success.With a clear job search strategy, you can confidently navigate the job market, seize opportunities, and achieve meaningful career growth.",
+      "pricing": 80,
+      "lessons": 10,
+      "duration": "1 hour",
+      "counselor_photo": "https://i.ibb.co.com/5vm6xhr/C-t-1.png",
+      "counselor": "Jonathan jhn",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/yF8FB71/resume-6627200-640.jpg",
+      "serviceName": "Resume & Cover Letter Building",
+      "category": "Document Review",
+      "description": "Resume and cover letter building, often referred to as document review services, is a tailored approach to crafting professional documents that effectively showcase your skills, experiences, and achievements. These services aim to enhance your chances of securing job interviews by creating impactful and well-structured resumes and cover letters that align with your career goals.The process begins with an in-depth review of your current documents or an initial consultation to understand your career history, strengths, and aspirations. Skilled professionals then design a resume that highlights your key qualifications, incorporates industry-specific keywords, and presents your information in a visually appealing format. For cover letters, the focus is on crafting a personalized and compelling narrative that communicates your enthusiasm and suitability for the target role.Document review services also emphasize eliminating common errors, optimizing content for applicant tracking systems (ATS), and tailoring materials to specific job applications. Whether you're a recent graduate, a career changer, or an experienced professional, these services ensure your documents make a strong impression.By investing in expertly built resumes and cover letters, you can confidently present yourself as a top candidate, paving the way for meaningful career opportunities and success.",
+      "pricing": 85,
+      "lessons": 10,
+      "duration": "1 hour",
+      "counselor_photo": "https://i.ibb.co.com/F6gBQyK/Ct2-1.png",
+      "counselor": "Kevin Murray",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/qkpkyrc/front-view-smiley-man-holding-paper-23-2150171318.jpg",
+      "serviceName": "Internship Guidance",
+      "category": "Educational Counseling",
+      "description": "Internship guidance, also known as educational counseling, plays a pivotal role in bridging the gap between academic learning and professional experience. This service is designed to help students and young professionals identify, secure, and excel in internship opportunities that align with their career goals and educational background.The process begins with personalized counseling sessions to understand the individual's interests, strengths, and aspirations. Based on this information, expert advisors recommend suitable internship roles and industries, offering insights into market trends and requirements. Participants are guided in building professional resumes and cover letters tailored to internship applications, as well as developing networking strategies to connect with potential employers.Educational counseling also prepares individuals for internship interviews, offering tips on effectively presenting their skills and experiences. Furthermore, it provides advice on how to maximize the internship experience by setting goals, seeking mentorship, and gaining practical skills relevant to their chosen field.This guidance ensures that internships become a stepping stone toward long-term career success. By participating in this process, individuals gain clarity, confidence, and the tools needed to make informed decisions, turning internships into valuable opportunities for growth and learning.",
+      "pricing": 75,
+      "lessons": 10,
+      "duration": "1 hour",
+      "counselor_photo": "https://i.ibb.co.com/zf0Jdhb/Ct3.png",
+      "counselor": "Sophia Brown",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/CM7r0dY/students-learning-together-cafe-23-2148166363.jpg",
+      "serviceName": "Networking Skills Workshop",
+      "category": "Professional Development",
+      "description": "A Networking Skills Workshop, part of professional development programs, is designed to help individuals build meaningful connections and advance their careers through effective networking. This workshop focuses on equipping participants with the skills and strategies needed to create, maintain, and leverage professional relationships in a variety of settings.Participants will learn the fundamentals of networking, including how to initiate conversations, build rapport, and present themselves confidently. The workshop also covers techniques for effective communication, active listening, and crafting a memorable elevator pitch. Special emphasis is placed on using networking tools like LinkedIn and attending industry events to expand one's professional circle.Through practical exercises and role-playing scenarios, attendees gain hands-on experience in engaging with peers, mentors, and potential employers. The workshop also addresses overcoming networking challenges, such as shyness or discomfort, and offers strategies for following up and nurturing connections over time.Networking is a critical skill for career advancement, opening doors to new opportunities, collaborations, and industry insights. This workshop empowers participants to network with confidence and purpose, fostering relationships that can support their professional growth and long-term success. Whether you're a student, a job seeker, or an experienced professional, mastering networking is a valuable investment in your future.",
+      "pricing": 85,
+      "lessons": 10,
+      "duration": "1 hour",
+      "counselor_photo": "https://i.ibb.co.com/rw7v3rQ/Ct3-1.png",
+      "counselor": "David Wilson",
+      "rating": 4.5
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co.com/cN4fsYQ/female-make-up-blogger-with-streaming-with-camera-laptop-home-23-2148771522.jpg",
+      "serviceName": "Personal Branding Session",
+      "category": "Image Management",
+      "description": "A Personal Branding Session, also known as Image Management, focuses on helping individuals craft a professional image that reflects their unique strengths, values, and career aspirations. This session is designed to empower participants to present themselves authentically and strategically in today’s competitive professional landscape.The session begins with an in-depth self-assessment to identify key attributes, skills, and experiences that set the individual apart. Participants learn how to define their personal brand, aligning it with their goals and the expectations of their industry. Topics covered include creating a compelling professional narrative, enhancing communication skills, and developing a consistent presence across platforms like LinkedIn, resumes, and portfolios.Participants are guided on dressing appropriately for their desired roles, refining body language, and building an online presence that conveys credibility and expertise. The session also addresses how to network effectively while maintaining a professional image and staying true to one’s values.By the end of the session, attendees will have a clear understanding of how to present themselves confidently and authentically, ensuring their personal brand resonates with potential employers, colleagues, and clients. Image management is a critical step in building trust, establishing influence, and achieving long-term career success.",
+      "pricing": 75,
+      "lessons": 10,
+      "duration": "1 hour",
+      "counselor_photo": "https://i.ibb.co.com/5vm6xhr/C-t-1.png",
+      "counselor": "Samuel Matt",
+      "rating": 4.7
+    },
+    
+    {
+      "id": 8,
+      "image": "https://i.ibb.co.com/RQKnpGt/social-media-marketing-concept-marketing-with-applications-23-2150063138.jpg",
+      "serviceName": "LinkedIn Profile Optimization",
+      "category": "Online Presence Enhancement",
+      "description": "LinkedIn Profile Optimization, also known as Online Presence Enhancement, is a strategic process aimed at refining your LinkedIn profile to effectively showcase your professional skills, experiences, and aspirations. This service is essential for building a strong online presence and leveraging LinkedIn as a powerful tool for networking, job hunting, and career advancement.The optimization process begins with an in-depth review of your existing profile to identify areas for improvement. It focuses on crafting a compelling headline, a well-structured and engaging summary, and detailed descriptions of your professional experiences and achievements. Industry-specific keywords are incorporated to improve search visibility, ensuring your profile appears in relevant searches by recruiters and connections.Participants are guided on selecting a professional profile photo, creating an impactful banner image, and highlighting their skills, endorsements, and certifications. Additionally, the service emphasizes strategies for growing your LinkedIn network, engaging with industry-related content, and building credibility through recommendations and active participation.A well-optimized LinkedIn profile not only enhances your online presence but also opens doors to new opportunities. Whether you’re a student, job seeker, or established professional, this service equips you with the tools to stand out in the digital professional landscape and advance your career.",
+      "pricing": 90,
+      "lessons": 10,
+      "duration": "1 hour",
+      "counselor_photo": "https://i.ibb.co.com/JvQ0VCZ/C-t-1-1.png",
+      "counselor": "Sara Jones",
+      "rating": 4.9
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co.com/BCY2phz/colleagues-interviewing-new-candidate-job-interview-concept-329181-12389.jpg",
+      "serviceName": "Mock Interview Practice",
+      "category": "Career Advancement",
+      "description": "Mock Interview Practice, a key component of career advancement, is designed to help individuals prepare for real-world job interviews by simulating the interview experience in a supportive and constructive environment. This practice allows participants to build confidence, refine their responses, and improve their overall performance when facing hiring managers or recruiters.During a mock interview session, participants are asked a series of job-related questions tailored to their specific industry and role. Feedback is provided on key aspects such as communication skills, body language, confidence, and the ability to answer questions clearly and concisely. Mock interviews also help individuals practice answering common behavioral and situational questions, giving them the tools to respond with relevant examples and demonstrate their value as a candidate.In addition to answering questions, participants receive advice on how to research companies, understand job descriptions, and ask insightful questions to interviewers. The session also emphasizes the importance of professionalism, including proper attire, punctuality, and etiquette.By engaging in mock interview practice, individuals can reduce interview anxiety, hone their interview techniques, and significantly increase their chances of success. This training is an invaluable resource for job seekers at any stage of their career, helping them advance by excelling in job interviews and securing their desired positions.",
+      "pricing": 95,
+      "lessons": 10,
+      "duration": "1 hour",
+      "counselor_photo": "https://i.ibb.co.com/rw7v3rQ/Ct3-1.png",
+      "counselor": "Scott Fowler",
+      "rating": 4.8
+    }
+  ]
+  
